@@ -1,6 +1,7 @@
+"use client"
 import Header from "@/components/Header"
 import LeftToolbar from "@/components/LeftToolbar"
-import MainContent from "@/components/MainContent"
+import MainContent from "@/components/MainContentKonva"
 import RightSidebar from "@/components/RightSidebar"
 
 export default function Home() {
